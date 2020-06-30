@@ -1,0 +1,61 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+h2{
+    font-size: 40px;
+}
+h3{
+    font-size: 30px;
+}
+.pink-highlight{
+    color: hotpink;
+}
+p{
+    color: gray;
+}
+.half-width{
+    width: 40%;
+    margin-left: 5%;
+    padding-left: 2%;
+    float: left;
+}
+.half-width img{
+    width: 100%;
+}
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(45deg, lightSalmon,tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    margin-top: 14px;
+    display: inline-table;
+}
+.header-section{
+    background-image: url(images/header-bg.png);
+    background-repeat: no-repeat;
+}
+
+section{
+    height:1100px;
+    padding-top: 100px;
+}
+.biography-section{
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+}
+.middle-text{
+    text-align: center;
+}
+.img-size{
+    width: 25%;
+    float: left;
+}
+.img-size img{
+    width: 100%;
+}
+
+
+
